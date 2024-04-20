@@ -21,6 +21,7 @@ O Diagrama não precisa necessariamente seguir o do exemplo,
 | 4 | Aplicacao4 | C:\Entrada2\ |  | C:\Guarda\ |
 | 5 | Aplicacao5 | C:\monitorada\3k\ | C:\monitorada\ds\ | C:\monitorada\Gd\ |
 | 6 | Aplicacao6 | C:\Aplicacao2Dest\ |  |  |
+obs. Nos arquivos desse projeto existe um csv com uma massa maior para teste
 
 ####Exemplo de Desenho de Fluxo:
 ![](https://github.com/hiperstream/desafio_hackathon_2024/blob/main/Exemplo_Fluxo.svg)
