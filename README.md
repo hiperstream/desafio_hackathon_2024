@@ -52,3 +52,8 @@ Resumo
 
 Utilizando técnicas de agregação de hierarquia em uma base de dados fornecida, esperamos uma solução capaz de transformar uma estrutura de tabela em uma visualização gráfica hierárquica, facilitando a visualização e a análise dos dados.
 
+## Publicação
+- Alguma ferramenta que permita publicação de projetos git público. Ex. Githup, Bitbucket, GitLab e etc.​
+- Caso a aplicação seja um executável oferecer o binário para Download no próprio Repositório GIT.​
+ -Caso as solução seja uma solução WEB publicar em algum ambiente gratuito para publicação. ​
+
